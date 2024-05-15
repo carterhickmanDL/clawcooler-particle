@@ -1,0 +1,11 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+    "files.associations": {
+        "*.ino": "cpp"
+    },
+    "particle.targetPlatform": "boron",
+    "particle.targetDevice": "proto3",
+    "particle.firmwareVersion": "6.1.0",
+    "cmake.configureOnOpen": true
+}
